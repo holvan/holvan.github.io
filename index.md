@@ -8,7 +8,7 @@ I am a Master student at Shanghai Jiao Tong University.
 
 ## Research Interests
 
-- **Audio Processing:** speaker recognition, speaker diarisation
+- **Audio Processing:** speaker recognition, acoustic scene classification, aound event detection, anomalous sound detection
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
