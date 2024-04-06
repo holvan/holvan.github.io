@@ -19,6 +19,4 @@ I am a Master's student at the Auditory Cognition and Computational Acoustics La
 
 <div style="display:block">
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
 </div>
