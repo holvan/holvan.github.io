@@ -17,7 +17,8 @@ I am a Master's student at the Auditory Cognition and Computational Acoustics La
 - **[Dec. 2023]** Our paper about *Robust Cross-Domain Speaker Verification* is accepted to ICASSP2024.
 - **[Dec. 2023]** Our paper about *Robust Machine Anomalous Sound Detection* is accepted to ICASSP2024.
 
-<div style="display:none">
+<div style="display:block">
 {% include_relative _includes/publications.md %}
+
 {% include_relative _includes/services.md %}
 </div>
