@@ -15,7 +15,7 @@ I am a Master's student at the Auditory Cognition and Computational Acoustics La
 - **[2024.08]** One paper accepted to ISCSLP 2024.
 - **[2024.06]** Achieved 1st and 4th place in Task 1 and Task 4 of the DCASE 2024 Challenge.
 - **[2024.04]** Presented one poster at ICASSP 2024 in Seoul, Korea.
-- **[2024.03]** Secured 2nd and 3rd place in the ICME 2024 ASC Grand Challenge.
+- **[2024.03]** Achieved 2nd and 3rd place in the ICME 2024 ASC Grand Challenge.
 - **[2023.12]** Two papers accepted to ICASSP 2024.
 
 <div style="display:block">

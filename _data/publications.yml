@@ -1,7 +1,7 @@
 main:
 
   - title: Robust Cross-Domain Speaker Verification with Multi-Level Domain Adapters
-    authors: <strong>Wen Huang</strong>, Bing Han, Shuai Wang, Zhengyang Chen, Yanmin Qian</div>
+    authors: <strong>Wen Huang</strong>, Bing Han, Shuai Wang, Zhengyang Chen, Yanmin Qian
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10446444/
@@ -13,7 +13,7 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/10447183/
 
   - title: Improving Dino-Based Self-Supervised Speaker Verification with Progressive Cluster-Aware Training
-    authors: Bing Han, <strong>Wen Huang</strong>, Zhengyang Chen, Yanmin Qian</div>
+    authors: Bing Han, <strong>Wen Huang</strong>, Zhengyang Chen, Yanmin Qian
     conference_short: ICASSPW
     conference: IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops <strong>(ICASSPW)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10192957/
