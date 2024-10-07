@@ -1,79 +1,39 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Selected publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
-
 <li>
 <div class="pub-row">
-
-[//]: # (  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">)
-
-[//]: # (    {% if link.image %} )
-
-[//]: # (    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">)
-
-[//]: # (    {% if link.conference_short %} )
-
-[//]: # (    <abbr class="badge">{{ link.conference_short }}</abbr>)
-
-[//]: # (    {% endif %})
-
-[//]: # (    {% endif %})
-
-[//]: # (  </div>)
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
-
-[//]: # (    <div class="links">)
-
-[//]: # (      {% if link.pdf %} )
-
-[//]: # (      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>)
-
-[//]: # (      {% endif %})
-
-[//]: # (      {% if link.code %} )
-
-[//]: # (      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>)
-
-[//]: # (      {% endif %})
-
-[//]: # (      {% if link.page %} )
-
-[//]: # (      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>)
-
-[//]: # (      {% endif %})
-
-[//]: # (      {% if link.bibtex %} )
-
-[//]: # (      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>)
-
-[//]: # (      {% endif %})
-
-[//]: # (      {% if link.notes %} )
-
-[//]: # (      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>)
-
-[//]: # (      {% endif %})
-
-[//]: # (      {% if link.others %} )
-
-[//]: # (      {{ link.others }})
-
-[//]: # (      {% endif %})
-
-[//]: # (    </div>)
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10446444/">Robust Cross-Domain Speaker Verification with Multi-Level Domain Adapters</a></div>
+    <div class="author"><strong>Wen Huang</strong>, Bing Han, Shuai Wang, Zhengyang Chen, Yanmin Qian</div>
+    <div class="periodical"><em>IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.</em></div>
   </div>
 </div>
 </li>
-<br>
 
-{% endfor %}
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10447183/">Exploring Large Scale Pre-Trained Models for Robust Machine Anomalous Sound Detection</a></div>
+    <div class="author">Bing Han, Zhiqiang Lv, Anbai Jiang, <strong>Wen Huang</strong>, Zhengyang Chen, Yufeng Deng, Jiawei Ding, Cheng Lu, Wei-Qiang Zhang, Pingyi Fan, Jia Liu, Yanmin Qian</div>
+    <div class="periodical"><em>IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10192957/">Improving Dino-Based Self-Supervised Speaker Verification with Progressive Cluster-Aware Training</a></div>
+    <div class="author">Bing Han, <strong>Wen Huang</strong>, Zhengyang Chen, Yanmin Qian</div>
+    <div class="periodical"><em>IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops <strong>(ICASSPW)</strong>, 2023.</em></div>
+  </div>
+</div>
+</li>
+
+<br>
 
 </ol>
 </div>
