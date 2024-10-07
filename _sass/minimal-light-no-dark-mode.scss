@@ -7,7 +7,7 @@
   height:2.4rem;
   width:2.4rem;
   background-color:transparent;
-  color: #042161 !important;
+  color: rgba(8, 31, 106, 0.78) !important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
@@ -219,7 +219,7 @@ h1 {
 }
 
 a {
-  color: #3380cc;
+  color: rgba(41, 71, 152, 0.88);
   text-decoration:none;
 }
 
@@ -500,7 +500,7 @@ footer {
   body {
     padding:0.4in;
     font-size:12pt;
-    color:#444;
+    color: #29292b;
   }
 }
 
@@ -524,5 +524,5 @@ footer {
 }
 
 .author strong {
-    color: #1e3d78; /* Adjust this to your preferred shade of blue */
+    color: #2d4fa8; /* Adjust this to your preferred shade of blue */
 }
