@@ -44,14 +44,14 @@ Research interests:
   **Wen Huang**, Xuechen Liu, Xin Wang, Junichi Yamagishi, Yanmin Qian
 - <span class="badge">ACL 2025</span> SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation
 Methods
-  \[[paper](https://arxiv.org/pdf/2507.21463)\]\[[project](https://github.com/YMLLG/SpeechFake)\]<br>
+  \[[project](https://github.com/YMLLG/SpeechFake)\]<br>
   **Wen Huang**\*, Yanmei Gu\*, Zhiming Wang, Huijia Zhu, Yanmin Qian
 - <span class="badge">ICASSP 2025</span> Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation
   \[[paper](https://arxiv.org/pdf/2501.14240)\]<br>
   **Wen Huang**, Yanmei Gu, Zhiming Wang, Huijia Zhu, Yanmin Qian
 - <span class="badge">ICASSP 2025</span> Data-Efficient Low-Complexity Acoustic Scene Classification via Distilling and Progressive Pruning
   \[[paper](https://arxiv.org/pdf/2410.20775)\]<br>
-  Bing Han, **Wen Huang**, Zhengyang Chen, Anbai Jiang, Pingyi Fan, Cheng Lu, Zhiqiang Lv, Jia Liu, Wei-Qiang Zhang, Yanmin Qian
+  Bing Han, **Wen Huang**, Zhengyang Chen, Anbai Jiang, Pingyi Fan, et al.
 - <span class="badge">ICASSP 2025</span> Unified Audio Event Detection
   \[[paper](https://arxiv.org/pdf/2409.08552)\]<br>
   Yidi Jiang, Ruijie Tao, **Wen Huang**, Qian Chen, Wen Wang
@@ -63,10 +63,10 @@ Methods
   **Wen Huang**, Bing Han, Shuai Wang, Zhengyang Chen, Yanmin Qian
 - <span class="badge">ICASSP 2024</span> Exploring Large Scale Pre-Trained Models for Robust Machine Anomalous Sound Detection
   \[[paper](https://ieeexplore.ieee.org/abstract/document/10447183/)\]<br>
-  Bing Han, Zhiqiang Lv , Anbai Jiang, **Wen Huang**, Zhengyang Chen, Yufeng Deng, Jiawei Ding, Cheng Lu, Wei-Qiang Zhang, Pingyi Fan, Jia Liu, Yanmin Qian
+  Bing Han, Zhiqiang Lv , Anbai Jiang, **Wen Huang**, Zhengyang Chen, et al.
 - <span class="badge">ICMEW 2024</span> Semi-Supervised Acoustic Scene Classification with Test-Time Adaptation.
   \[[paper](https://ieeexplore.ieee.org/abstract/document/10645362)\]<br>
-  **Wen Huang**, Anbai Jiang, Bing Han, Xinhu Zheng, Yihong Qiu, Wenxi Chen, Yuzhe Liang,Pingyi Fan, Wei-Qiang Zhang, Cheng Lu, Xie Chen, Jia Liu, Yanmin Qian
+  **Wen Huang**, Anbai Jiang, Bing Han, Xinhu Zheng, Yihong Qiu, et al.
 - <span class="badge">ICASSPW 2024</span> Improving Dino-Based Self-Supervised Speaker Verification with Progressive Cluster-Aware Training
   \[[paper](https://ieeexplore.ieee.org/abstract/document/10192957)\]<br>
   Bing Han, **Wen Huang**, Zhengyang Chen, Yanmin Qian
