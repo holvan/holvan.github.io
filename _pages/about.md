@@ -39,35 +39,35 @@ Research interests:
 
 # 📝 Publications 
 
-- <span class="badge">Interspeech 2025</span>: From Sharpness to Better Generalization for Speech Deepfake Detection 
+- <span class="badge">Interspeech 2025</span> From Sharpness to Better Generalization for Speech Deepfake Detection 
   \[[paper](https://arxiv.org/pdf/2506.11532)\]\[[code](https://github.com/nii-yamagishilab/SAM-AntiSpoofing)\]<br>
   **Wen Huang**, Xuechen Liu, Xin Wang, Junichi Yamagishi, Yanmin Qian
-- <span class="badge">ACL 2025</span>: SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation
+- <span class="badge">ACL 2025</span> SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation
 Methods
   \[[paper](https://arxiv.org/pdf/2507.21463)\]\[[project](https://github.com/YMLLG/SpeechFake)\]<br>
   **Wen Huang**\*, Yanmei Gu\*, Zhiming Wang, Huijia Zhu, Yanmin Qian
-- <span class="badge">ICASSP 2025</span>: Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation
+- <span class="badge">ICASSP 2025</span> Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation
   \[[paper](https://arxiv.org/pdf/2501.14240)\]<br>
   **Wen Huang**, Yanmei Gu, Zhiming Wang, Huijia Zhu, Yanmin Qian
-- <span class="badge">ICASSP 2025</span>: Data-Efficient Low-Complexity Acoustic Scene Classification via Distilling and Progressive Pruning
+- <span class="badge">ICASSP 2025</span> Data-Efficient Low-Complexity Acoustic Scene Classification via Distilling and Progressive Pruning
   \[[paper](https://arxiv.org/pdf/2410.20775)\]<br>
   Bing Han, **Wen Huang**, Zhengyang Chen, Anbai Jiang, Pingyi Fan, Cheng Lu, Zhiqiang Lv, Jia Liu, Wei-Qiang Zhang, Yanmin Qian
-- <span class="badge">ICASSP 2025</span>: Unified Audio Event Detection
+- <span class="badge">ICASSP 2025</span> Unified Audio Event Detection
   \[[paper](https://arxiv.org/pdf/2409.08552)\]<br>
   Yidi Jiang, Ruijie Tao, **Wen Huang**, Qian Chen, Wen Wang
-- <span class="badge">ISCSLP 2024</span>: Prototype and Instance Contrastive Learning for Unsupervised Domain Adaptation in Speaker Verification
+- <span class="badge">ISCSLP 2024</span> Prototype and Instance Contrastive Learning for Unsupervised Domain Adaptation in Speaker Verification
   \[[paper](https://arxiv.org/pdf/2410.17033)\]<br>
   **Wen Huang**\*, Bing Han\*, Zhengyang Chen, Shuai Wang, Yanmin Qian
-- <span class="badge">ICASSP 2024</span>: Robust Cross-Domain Speaker Verification with Multi-Level Domain Adapters
+- <span class="badge">ICASSP 2024</span> Robust Cross-Domain Speaker Verification with Multi-Level Domain Adapters
   \[[paper](https://ieeexplore.ieee.org/abstract/document/10446444/)\]<br>
   **Wen Huang**, Bing Han, Shuai Wang, Zhengyang Chen, Yanmin Qian
-- <span class="badge">ICASSP 2024</span>: Exploring Large Scale Pre-Trained Models for Robust Machine Anomalous Sound Detection
+- <span class="badge">ICASSP 2024</span> Exploring Large Scale Pre-Trained Models for Robust Machine Anomalous Sound Detection
   \[[paper](https://ieeexplore.ieee.org/abstract/document/10447183/)\]<br>
   Bing Han, Zhiqiang Lv , Anbai Jiang, **Wen Huang**, Zhengyang Chen, Yufeng Deng, Jiawei Ding, Cheng Lu, Wei-Qiang Zhang, Pingyi Fan, Jia Liu, Yanmin Qian
-- <span class="badge">ICMEW 2024</span>: Semi-Supervised Acoustic Scene Classification with Test-Time Adaptation.
+- <span class="badge">ICMEW 2024</span> Semi-Supervised Acoustic Scene Classification with Test-Time Adaptation.
   \[[paper](https://ieeexplore.ieee.org/abstract/document/10645362)\]<br>
   **Wen Huang**, Anbai Jiang, Bing Han, Xinhu Zheng, Yihong Qiu, Wenxi Chen, Yuzhe Liang,Pingyi Fan, Wei-Qiang Zhang, Cheng Lu, Xie Chen, Jia Liu, Yanmin Qian
-- <span class="badge">ICASSPW 2024</span>: Improving Dino-Based Self-Supervised Speaker Verification with Progressive Cluster-Aware Training
+- <span class="badge">ICASSPW 2024</span> Improving Dino-Based Self-Supervised Speaker Verification with Progressive Cluster-Aware Training
   \[[paper](https://ieeexplore.ieee.org/abstract/document/10192957)\]<br>
   Bing Han, **Wen Huang**, Zhengyang Chen, Yanmin Qian
 
