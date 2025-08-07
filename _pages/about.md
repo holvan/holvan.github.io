@@ -67,7 +67,7 @@ Methods
 - <span class="badge">ICMEW 2024</span> Semi-Supervised Acoustic Scene Classification with Test-Time Adaptation.
   \[[paper](https://ieeexplore.ieee.org/abstract/document/10645362)\]<br>
   **Wen Huang**, Anbai Jiang, Bing Han, Xinhu Zheng, Yihong Qiu, et al.
-- <span class="badge">ICASSPW 2024</span> Improving Dino-Based Self-Supervised Speaker Verification with Progressive Cluster-Aware Training
+- <span class="badge">ICASSPW 2023</span> Improving Dino-Based Self-Supervised Speaker Verification with Progressive Cluster-Aware Training
   \[[paper](https://ieeexplore.ieee.org/abstract/document/10192957)\]<br>
   Bing Han, **Wen Huang**, Zhengyang Chen, Yanmin Qian
 
