@@ -25,6 +25,7 @@ Research interests:
 
 
 # 🔥 News
+- *2025.08*: Presented one poster at Interspeech 2025 in Rotterdam, Netherlands.
 - *2025.07*: Presented virtually at ACL 2025.
 - *2025.05*: One paper accepted to Interspeech 2025.
 - *2025.05*: One paper accepted to ACL 2025.
