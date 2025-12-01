@@ -41,23 +41,22 @@ Research interests:
 # 📝 Publications 
 
 - <span class="badge">Interspeech 2025</span> From Sharpness to Better Generalization for Speech Deepfake Detection 
-  \[[paper](https://arxiv.org/pdf/2506.11532)\]\[[code](https://github.com/nii-yamagishilab/SAM-AntiSpoofing)\]<br>
+  \[[paper](https://www.isca-archive.org/interspeech_2025/huang25e_interspeech.html)\]\[[code](https://github.com/nii-yamagishilab/SAM-AntiSpoofing)\]<br>
   **Wen Huang**, Xuechen Liu, Xin Wang, Junichi Yamagishi, Yanmin Qian
-- <span class="badge">ACL 2025</span> SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation
-Methods
-  \[[project](https://github.com/YMLLG/SpeechFake)\]<br>
+- <span class="badge">ACL 2025</span> SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods
+  \[[paper](https://aclanthology.org/2025.acl-long.493/)\]\[[project](https://github.com/YMLLG/SpeechFake)\]<br>
   **Wen Huang**\*, Yanmei Gu\*, Zhiming Wang, Huijia Zhu, Yanmin Qian
 - <span class="badge">ICASSP 2025</span> Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation
-  \[[paper](https://arxiv.org/pdf/2501.14240)\]<br>
+  \[[paper](https://ieeexplore.ieee.org/document/10888328)\]<br>
   **Wen Huang**, Yanmei Gu, Zhiming Wang, Huijia Zhu, Yanmin Qian
 - <span class="badge">ICASSP 2025</span> Data-Efficient Low-Complexity Acoustic Scene Classification via Distilling and Progressive Pruning
-  \[[paper](https://arxiv.org/pdf/2410.20775)\]<br>
+  \[[paper](https://ieeexplore.ieee.org/document/10890296)\]<br>
   Bing Han, **Wen Huang**, Zhengyang Chen, Anbai Jiang, Pingyi Fan, et al.
 - <span class="badge">ICASSP 2025</span> Unified Audio Event Detection
-  \[[paper](https://arxiv.org/pdf/2409.08552)\]<br>
+  \[[paper](https://ieeexplore.ieee.org/document/10888080)\]<br>
   Yidi Jiang, Ruijie Tao, **Wen Huang**, Qian Chen, Wen Wang
 - <span class="badge">ISCSLP 2024</span> Prototype and Instance Contrastive Learning for Unsupervised Domain Adaptation in Speaker Verification
-  \[[paper](https://arxiv.org/pdf/2410.17033)\]<br>
+  \[[paper](https://ieeexplore.ieee.org/document/10800140)\]<br>
   **Wen Huang**\*, Bing Han\*, Zhengyang Chen, Shuai Wang, Yanmin Qian
 - <span class="badge">ICASSP 2024</span> Robust Cross-Domain Speaker Verification with Multi-Level Domain Adapters
   \[[paper](https://ieeexplore.ieee.org/abstract/document/10446444/)\]<br>
