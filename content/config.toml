@@ -1,7 +1,8 @@
 [site]
 title = "Wen Huang"
-description = "favicon.ico"
-favicon = ""
+url = "https://holvan.github.io/"
+description = "Homepage"
+favicon = "favicon.ico"
 last_updated = "December, 2025"
 google_analytics_id = "G-4LET4R49B8"
 repository = "holvan/holvan.github.io"
@@ -17,9 +18,6 @@ avatar = "/bio.png"
 # Contact information (leave blank or delete to hide)
 
 email = "wenhuangholvan@gmail.com"
-location = "Shanghai, China"
-location_url = ""
-location_details = []
 google_scholar = "https://scholar.google.com/citations?user=pMYLUvIAAAAJ&hl=en"
 orcid = ""
 github = "https://github.com/holvan"
