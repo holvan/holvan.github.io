@@ -1,0 +1,70 @@
+[site]
+title = "Wen Huang"
+description = "favicon.ico"
+favicon = ""
+last_updated = "December, 2025"
+google_analytics_id = "G-4LET4R49B8"
+repository = "holvan/holvan.github.io"
+google_scholar_stats_use_cdn = true
+
+[author]
+name = "Wen Huang"
+title = "M.E. Student"
+institution = "Shanghai Jiao Tong University"
+avatar = "/bio.png"
+
+[social]
+# Contact information (leave blank or delete to hide)
+
+email = "wenhuangholvan@gmail.com"
+location = "Shanghai, China"
+location_url = ""
+location_details = []
+google_scholar = "https://scholar.google.com/citations?user=pMYLUvIAAAAJ&hl=en"
+orcid = ""
+github = "https://github.com/holvan"
+linkedin = "https://linkedin.com/in/wen-huang-7b3448231/"
+twitter = "https://twitter.com/wenhuang0907"
+
+[features]
+# Show a like button on the about page
+enable_likes = false
+
+# Display all subpages on a single page
+enable_one_page_mode = false
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+# [[navigation]]
+# title = "Teaching"
+# type = "page"
+# target = "teaching"
+# href = "/teaching"
+
+# [[navigation]]
+# title = "Awards"
+# type = "page"
+# target = "awards"
+# href = "/awards"
+
+# [[navigation]]
+# title = "Services"
+# type = "page"
+# target = "services"
+# href = "/services"
+
+# [[navigation]]
+# title = "CV"
+# type = "page"
+# target = "cv"
+# href = "/cv"
