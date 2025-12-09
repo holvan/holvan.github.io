@@ -8,6 +8,10 @@ export interface SiteConfig {
         description: string;
         favicon: string;
         last_updated?: string;
+        url?: string;
+        google_analytics_id?: string;
+        repository?: string;
+        google_scholar_stats_use_cdn?: boolean;
     };
     author: {
         name: string;

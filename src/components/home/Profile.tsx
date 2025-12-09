@@ -80,7 +80,7 @@ export default function Profile({ author, social, features, researchInterests }:
     };
 
     const socialLinks = [
-        ...(social.email ? [{
+        ...(social.email && typeof social.email === 'string' ? [{
             name: 'Email',
             href: `mailto:${social.email}`,
             icon: EnvelopeIcon,
@@ -88,31 +88,31 @@ export default function Profile({ author, social, features, researchInterests }:
         }] : []),
         ...(social.location || social.location_details ? [{
             name: 'Location',
-            href: social.location_url || '#',
+            href: (typeof social.location_url === 'string' ? social.location_url : undefined) || '#',
             icon: MapPinIcon,
             isLocation: true,
         }] : []),
-        ...(social.google_scholar ? [{
+        ...(social.google_scholar && typeof social.google_scholar === 'string' ? [{
             name: 'Google Scholar',
             href: social.google_scholar,
             icon: AcademicCapIcon,
         }] : []),
-        ...(social.orcid ? [{
+        ...(social.orcid && typeof social.orcid === 'string' ? [{
             name: 'ORCID',
             href: social.orcid,
             icon: OrcidIcon,
         }] : []),
-        ...(social.github ? [{
+        ...(social.github && typeof social.github === 'string' ? [{
             name: 'GitHub',
             href: social.github,
             icon: Github,
         }] : []),
-        ...(social.linkedin ? [{
+        ...(social.linkedin && typeof social.linkedin === 'string' ? [{
             name: 'LinkedIn',
             href: social.linkedin,
             icon: Linkedin,
         }] : []),
-        ...(social.twitter ? [{
+        ...(social.twitter && typeof social.twitter === 'string' ? [{
             name: 'X',
             href: social.twitter,
             icon: XIcon,
