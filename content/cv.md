@@ -11,19 +11,19 @@
 
 ## Research Experience
 
-### WAVLab, CMU | Remote
+**WAVLab, CMU** | Remote
 
 **Remote Collaboration (Advised by Prof. Shinji Watanabe)** | *Jun. 2025 -- Nov. 2025*
 
-### National Institute of Informatics** | Tokyo, Japan
+**National Institute of Informatics** | Tokyo, Japan
 
 **Research Intern (Advised by Prof. Junichi Yamagishi)** | *Oct. 2024 -- Jan. 2025*
 
-### Ant Group (Alipay)** | Shanghai, China
+**Ant Group (Alipay)** | Shanghai, China
 
 **Research Intern, Speech Algorithms Department** | *Jun. 2024 -- Oct. 2024*
 
-### AudioCC Lab, SJTU** | Shanghai, China
+**AudioCC Lab, SJTU** | Shanghai, China
 
 **Research Assistant (Advised by Prof. Yanmin Qian)** | *Jun. 2022 -- Present*
 
