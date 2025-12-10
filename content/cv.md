@@ -1,6 +1,6 @@
 ## Education
 
-### Shanghai Jiao Tong University | Shanghai, China
+### Shanghai Jiao Tong University
 **M.E. in Electronic and Information Engineering** | *Sept. 2023 -- Mar. 2026 (expected)*
 
 **B.E. in Information Engineering** | *Sept. 2019 -- Jun. 2023*
@@ -13,19 +13,19 @@
 
 **WAVLab, CMU** | Remote
 
-*Remote Collaboration (Advised by Prof. Shinji Watanabe)* | *Jun. 2025 -- Nov. 2025*
+**Remote Collaboration (Advised by Prof. Shinji Watanabe)** | *Jun. 2025 -- Nov. 2025*
 
 **National Institute of Informatics** | Tokyo, Japan
 
-*Research Intern (Advised by Prof. Junichi Yamagishi)* | *Oct. 2024 -- Jan. 2025*
+**Research Intern (Advised by Prof. Junichi Yamagishi)** | *Oct. 2024 -- Jan. 2025*
 
 **Ant Group (Alipay)** | Shanghai, China
 
-*Research Intern, Speech Algorithms Department* | *Jun. 2024 -- Oct. 2024*
+**Research Intern, Speech Algorithms Department** | *Jun. 2024 -- Oct. 2024*
 
 **AudioCC Lab, SJTU** | Shanghai, China
 
-*Research Assistant (Advised by Prof. Yanmin Qian)* | *Jun. 2022 -- Present*
+**Research Assistant (Advised by Prof. Yanmin Qian)** | *Jun. 2022 -- Present*
 
 ## Challenges
 
