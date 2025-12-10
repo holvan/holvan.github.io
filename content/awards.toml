@@ -3,25 +3,43 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Dean’s Scholarship of SPEIT"
+subtitle = "SJTU-ParisTech Elite Institute of Technology"
 date = "2024"
-content = "Description of the award."
+content = "A scholarship awarded for academic excellence at SPEIT, limited to 1 recipient per year."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "ISCSLP 2024 Best Student Paper Award"
+subtitle = "International Symposium on Chinese Spoken Language Processing"
+date = "2024"
+content = "Award for the best student paper at the ISCSLP conference."
+
+[[items]]
+title = "ICASSP 2024 IEEE SPS Travel Grant"
+subtitle = "IEEE Signal Processing Society"
+date = "2024"
+content = "A travel grant to attend the IEEE International Conference on Acoustics, Speech, and Signal Processing."
+
+[[items]]
+title = "Outstanding Graduates in SJTU"
+subtitle = "Shanghai Jiao Tong University"
 date = "2023"
-content = "Description of the award."
+content = "A highly selective honor awarded to top 1% graduates of SJTU for outstanding academic and extracurricular achievements."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Huatai Securities Science & Technology Scholarship"
+subtitle = "Huatai Securities"
 date = "2022"
-content = "Description of the award."
+content = "A competitive industry scholarship for students excelling in science and technology fields, limited to 2 recipients per year in each department."
+
+[[items]]
+title = "SPEIT Academic Scholarship"
+subtitle = "SJTU-ParisTech Elite Institute of Technology"
+date = "2021"
+content = "A scholarship awarded for academic excellence at SPEIT, limited to 3 recipients per year."
+
+[[items]]
+title = "A Class Scholarship in SJTU"
+subtitle = "Shanghai Jiao Tong University"
+date = "2020"
+content = "A scholarship for top-ranking students at SJTU, limited to 2 recipient per year in each department."
