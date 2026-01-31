@@ -9,6 +9,20 @@
   selected = {true},
 }
 
+@inproceedings{mao2026localizing,
+  title = {Localizing Speech Deepfakes Beyond Transitions via Segment-Aware Learning},
+  author = {Yuchen Mao and Wen Huang and Yanmin Qian*},
+  year = {2026},
+  booktitle = {ICASSP},
+  pages = {},
+  abstract = {Localizing partial deepfake audio, where only segments of speech are manipulated, remains challenging due to the subtle and scattered nature of these modifications. Existing approaches typically rely on frame-level predictions to identify spoofed segments, and some recent methods improve performance by concentrating on the transitions between real and fake audio. However, we observe that these models tend to over-rely on boundary artifacts while neglecting the manipulated content that follows. We argue that effective localization requires understanding the entire segments beyond just detecting transitions. Thus, we propose Segment-Aware Learning (SAL), a framework that encourages models to focus on the internal structure of segments. SAL introduces two core techniques: Segment Positional Labeling, which provides fine-grained frame supervision based on relative position within a segment; and Cross-Segment Mixing, a data augmentation method that generates diverse segment patterns. Experiments across multiple deepfake localization datasets show that SAL consistently achieves strong performance in both in-domain and out-of-domain settings, with notable gains in non-boundary regions and reduced reliance on transition artifacts.},
+  description={A segment-aware framework introducing positional labeling and cross-segment mixing to mitigate boundary over-reliance and enhance the localization of manipulated content in partial deepfake audio.},
+  doi = {},
+  url = {https://arxiv.org/abs/2601.21925},
+  selected = {false},
+  code = {https://github.com/SentryMao/SAL},
+}
+
 @inproceedings{huang2025speechfake,
   title = {{SpeechFake}: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation
 Methods},
