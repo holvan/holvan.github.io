@@ -2,13 +2,13 @@
 
 **Shanghai Jiao Tong University**
 
-M.E. in Electronic and Information Engineering | *Sept. 2023 -- Mar. 2026 (expected)*
+M.E. in Electronic and Information Engineering | *Sept. 2023 -- Mar. 2026*
 
 B.E. in Information Engineering | *Sept. 2019 -- Jun. 2023*
 
 **ParisTech, SJTU-Paris Elite Institute of Technology**
 
-Diplôme d'Ingénieur Spécialisé en Informatique | *Sept. 2019 -- Mar. 2026 (expected)*
+Diplôme d'Ingénieur Spécialisé en Informatique | *Sept. 2019 -- Mar. 2026*
 
 
 ## Research Experience
@@ -36,13 +36,14 @@ Research Assistant (Advised by Prof. Yanmin Qian) | *Jun. 2022 -- Present*
 
 ## Honors and Awards
 
+* **2026:** SJTU Outstanding Postgraduate Graduate
 * **2024:** Dean’s Scholarship of SPEIT
 * **2024:** ISCSLP 2024 Best Student Paper Award
 * **2024:** ICASSP 2024 IEEE SPS Travel Grant
-* **2023:** Outstanding Graduates in SJTU
+* **2023:** SJTU Outstanding Undergraduate Graduate
 * **2022:** Huatai Securities Science & Technology Scholarship
 * **2021:** SPEIT Academic Scholarship
-* **2020:** A Class Scholarship in SJTU
+* **2020:** SJTU A Class Scholarship
 
 ## Technical Skills
 
