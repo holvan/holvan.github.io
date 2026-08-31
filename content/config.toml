@@ -3,15 +3,15 @@ title = "Wen Huang"
 url = "https://holvan.github.io/"
 description = "Homepage"
 favicon = "favicon.ico"
-last_updated = "March, 2026"
+last_updated = "August, 2026"
 google_analytics_id = "G-4LET4R49B8"
 repository = "holvan/holvan.github.io"
 google_scholar_stats_use_cdn = true
 
 [author]
 name = "Wen Huang"
-title = "M.E. Student"
-institution = "Shanghai Jiao Tong University"
+title = "Ph.D. Student"
+institution = "Johns Hopkins University"
 avatar = "/bio.png"
 
 [social]
@@ -49,17 +49,19 @@ href = "/publications"
 # target = "teaching"
 # href = "/teaching"
 
-[[navigation]]
-title = "Awards"
-type = "page"
-target = "awards"
-href = "/awards"
+# Hidden for now (content lives in the CV page):
+# [[navigation]]
+# title = "Awards"
+# type = "page"
+# target = "awards"
+# href = "/awards"
 
-[[navigation]]
-title = "Services"
-type = "page"
-target = "services"
-href = "/services"
+# Hidden for now (content lives in the CV page):
+# [[navigation]]
+# title = "Services"
+# type = "page"
+# target = "services"
+# href = "/services"
 
 [[navigation]]
 title = "CV"

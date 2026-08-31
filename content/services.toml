@@ -4,30 +4,35 @@ description = "Professional services and community involvement."
 
 [[items]]
 title = "Reviewer"
-subtitle = "ICASSP 2026"
-date = "2025"
-#content = "Served as a reviewer."
+subtitle = "ICASSP"
+date = "2026"
 
 [[items]]
 title = "Reviewer"
-subtitle = "ICLR 2026"
+subtitle = "Interspeech"
+date = "2026"
+
+[[items]]
+title = "Reviewer"
+subtitle = "SLT"
+date = "2026"
+
+[[items]]
+title = "Reviewer"
+subtitle = "NeurIPS"
+date = "2026"
+
+[[items]]
+title = "Reviewer"
+subtitle = "ICLR"
+date = "2026/2025"
+
+[[items]]
+title = "Reviewer"
+subtitle = "IJCNN"
 date = "2025"
-#content = "Served as a reviewer."
 
 [[items]]
 title = "Reviewer"
 subtitle = "Speech Communication"
 date = "2025"
-#content = "Served as a reviewer."
-
-[[items]]
-title = "Reviewer"
-subtitle = "IJCNN 2025"
-date = "2025"
-#content = "Served as a reviewer."
-
-[[items]]
-title = "Reviewer"
-subtitle = "ICLR 2025"
-date = "2024"
-#content = "Served as a reviewer."

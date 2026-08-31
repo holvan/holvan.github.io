@@ -1,17 +1,24 @@
 ## Education
 
+**Johns Hopkins University**
+
+Ph.D. in Electrical and Computer Engineering | *Aug. 2026 -- Present*
+
 **Shanghai Jiao Tong University**
 
 M.E. in Electronic and Information Engineering | *Sept. 2023 -- Mar. 2026*
 
 B.E. in Information Engineering | *Sept. 2019 -- Jun. 2023*
 
-**ParisTech, SJTU-Paris Elite Institute of Technology**
-
-Diplôme d'Ingénieur Spécialisé en Informatique | *Sept. 2019 -- Mar. 2026*
+[//]: # (HIDDEN — **ParisTech, SJTU-Paris Elite Institute of Technology**)
+[//]: # (HIDDEN — Diplôme d'Ingénieur Spécialisé en Informatique | *Sept. 2019 -- Mar. 2026*)
 
 
 ## Research Experience
+
+**Alibaba Group** | Beijing, China
+
+Research Intern, Qwen Team (Advised by Jin Xu) | *Mar. 2026 -- Aug. 2026*
 
 **WAVLab, CMU** | Remote
 
@@ -27,12 +34,14 @@ Research Intern, Speech Algorithms Department | *Jun. 2024 -- Oct. 2024*
 
 **AudioCC Lab, SJTU** | Shanghai, China
 
-Research Assistant (Advised by Prof. Yanmin Qian) | *Jun. 2022 -- Present*
+Research Assistant (Advised by Prof. Yanmin Qian) | *Jun. 2022 -- Mar. 2026*
 
 ## Challenges
 
-* **2024:** First Place, DCASE2024: Data-Efficient Low-Complexity Acoustic Scene Classification
-* **2024:** Second & Third Place, ICME2024 Acoustic Scene Classification Grand Challenge
+* **2026:** First Place, [APSIPA 2026 RADAR Challenge](https://radar-challenge.github.io/)
+* **2026:** First Place, Track 1 of [ACM MM 2026 AT-ADD Challenge](https://www.at-add.com/)
+* **2024:** First Place, Task 1 of [DCASE 2024 Challenge](https://dcase.community/challenge2024/task-data-efficient-low-complexity-acoustic-scene-classification)
+* **2024:** Second & Third Place, [ICME 2024 ASC Grand Challenge](https://ascchallenge.xshengyun.com/2024/index.html)
 
 ## Honors and Awards
 
@@ -44,6 +53,11 @@ Research Assistant (Advised by Prof. Yanmin Qian) | *Jun. 2022 -- Present*
 * **2022:** Huatai Securities Science & Technology Scholarship
 * **2021:** SPEIT Academic Scholarship
 * **2020:** SJTU A Class Scholarship
+
+## Services
+
+* **Conference Reviewer:** ICASSP 2026, Interspeech 2026, SLT 2026, NeurIPS 2026, ICLR 2026/2025, IJCNN 2025
+* **Journal Reviewer:** Speech Communication
 
 ## Technical Skills
 

@@ -171,6 +171,7 @@ export default function Home() {
                         key={section.id}
                         items={section.items || []}
                         title={section.title}
+                        limit={section.limit}
                       />
                     );
                   default:
